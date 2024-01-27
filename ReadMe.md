@@ -22,3 +22,7 @@ Setup your machine.
 #### Report
 * Report will be found here: ```/output/report.html```
 ---
+
+### Tests
+1. **[TestCase-1](https://github.com/vinaykumarvvs/sample-selenium-python-cucumber-framework/blob/main/features/TestA.feature):** Heroku - FormAuthentication Cases
+2. **[TestCase-2](https://github.com/vinaykumarvvs/sample-selenium-python-cucumber-framework/blob/main/features/TestB.feature):** Heroku - Drag And Drop Cases
