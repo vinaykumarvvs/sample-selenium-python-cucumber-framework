@@ -4,7 +4,7 @@ The tech stack used in this project are:
 1. **Python** as the programming language for writing test code
 2. **Cucumber** as the framework
 3. **PIP3** as the build tool
-4. **VSCode** as the preferred IDE for writing java code.
+4. **VSCode** as the preferred IDE for writing python code.
 
 #### Getting Started
 Setup your machine.
